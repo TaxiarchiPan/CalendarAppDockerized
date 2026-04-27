@@ -2,7 +2,6 @@
 # Cloud-Ready Calendar App 
 
 ## A modern and dedicated event management system that organizes your schedule.
- Project Structuredocker-compose.yaml: Service orchestration and environment settings.web/app.py: Flask API routes and database connection logic.web/static/: Contains the style.css and script.js that power the UI.web/templates/index.html: The main structure of the calendar application.
 ## Features
 
 * **Interactive Calendar Interface** – Navigate months and years with an automated "today" focus.
